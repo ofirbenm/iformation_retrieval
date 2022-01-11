@@ -5,11 +5,11 @@
 
   Loading the indexes, page rank and page view files, implemnet all the function input
 
-* beckend.py
+* search_beckend.py
 
   Implemnet all the measure - BM25, cosin similarity, binary anchor, binary title, search body, and merge function that combine the measure by wight.
 
-* index_code.ipynb
+* Inverted_Index.ipynb
 
   Load 6M doc from Wiki.
   Preproccecing.
